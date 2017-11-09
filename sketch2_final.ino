@@ -6,7 +6,7 @@
 #define GreenLED_2 7 //좌우 연동 LED
 #define buttonA 2 //스위치
  
-#define DelayTime 5000 //10초
+#define DelayTime 10000 //10초
 #define YellowBlinkTime 3000 //3초
 #define PedestrianDelayTime 3000 //3초
 #define PedestrianMovingTime 10000 //10초
